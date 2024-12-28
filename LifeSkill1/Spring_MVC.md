@@ -39,7 +39,7 @@
 
 ### References
 * Spring MVC in YouTube  - [click here](https://www.youtube.com/watch?v=g2b-NbR48Jo)
-* Spring MVC in Github - [click here](https://github.com/navinreddy20/Spring-MVC-Tutorial)
-* Spring MVC Document - [click here](https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/mvc.html)
+* Spring MVC  Github - [click here](https://github.com/navinreddy20/Spring-MVC-Tutorial)
+* Spring MVC Documentation - [click here](https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/mvc.html)
 
 
