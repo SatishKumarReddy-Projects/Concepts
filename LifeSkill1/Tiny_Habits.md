@@ -7,7 +7,7 @@ The most interesting idea in the talk is how celebrating small wins can help you
 
 ### 2. How can you use B = MAP to make making new habits easier? What are M, A and P.
 
-The formula B = MAP (Behavior = Motivation + Ability + Prompt) helps in building habits:
+The formula B = MAP (Behavior = Motivation + Ability + Prompt) helps in building habits
 
 * Motivation (M): The reason you want to do the habit. Connect the habit to something you care about or want to achieve to stay motivated.
 
