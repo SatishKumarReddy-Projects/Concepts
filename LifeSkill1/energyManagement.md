@@ -42,8 +42,8 @@
 * Regular exercise helps grow new brain cells, improving memory and thinking.
 ### 7. What are some steps you can take to exercise more?
 
-*  Plan specific days and times for workouts to build consistency.
-*  Plan your workout time.
+* Plan specific days and times for workouts to build consistency.
+* Plan your workout time.
 * Start with easy activities like walking.
 * Pick exercises you enjoy doing.
 * Make workouts simple and nearby.
